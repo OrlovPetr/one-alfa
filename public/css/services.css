@@ -1,0 +1,30 @@
+#main_section {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.service_block {
+    width: 50vw;
+    height: 50vh;
+    padding: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.service_block * {
+    margin-bottom: 20px;
+}
+
+.service_block *:last-child {
+    margin-bottom: 0;
+}

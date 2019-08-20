@@ -1,0 +1,5 @@
+@include('layouts.head')
+@include('layouts.loader')
+@include('layouts.navigation')
+@include('pages_content.service')
+@include('layouts.footer')

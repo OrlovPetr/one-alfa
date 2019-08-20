@@ -1,0 +1,133 @@
+/*  BACKGROUND COLORS  */
+
+.bg_main_white {
+    background-color: #f5f5f5;
+}
+
+.bg_medium_white {
+    background-color: #e6e6e6;
+}
+
+.bg_pearl_white {
+    background-color: #d2d2d2;
+}
+
+.bg_dark_white {
+    background-color: #bebebe;
+}
+
+.bg_main_grey {
+    background-color: #aaaaaa;
+}
+
+.bg_medium_grey {
+    background-color: #969696;
+}
+
+.bg_pearl_grey {
+    background-color: #828282;
+}
+
+.bg_dark_grey {
+    background-color: #646464;
+}
+
+.bg_main_black {
+    background-color: #1e1e1e;
+}
+
+.bg_medium_black {
+    background-color: #323232;
+}
+
+.bg_pearl_black {
+    background-color: #464646;
+}
+
+.bg_dark_black {
+    background-color: #0a0a0a;
+}
+
+.bg_main_blue {
+    background-color: #465af5;
+}
+
+.bg_white_blue {
+    background-color: #afaff5;
+}
+
+.bg_grey_blue {
+    background-color: #6464aa;
+}
+
+.bg_black_blue {
+    background-color: #1e1e64;
+}
+
+/*  ----------------------------------------------------------------------  */
+
+/*  FONTS COLORS  */
+
+.main_white {
+    color: #f5f5f5;
+}
+
+.medium_white {
+    color: #e6e6e6;
+}
+
+.pearl_white {
+    color: #d2d2d2;
+}
+
+.dark_white {
+    color: #bebebe;
+}
+
+.main_grey {
+    color: #aaaaaa;
+}
+
+.medium_grey {
+    color: #969696;
+}
+
+.pearl_grey {
+    color: #828282;
+}
+
+.dark_grey {
+    color: #646464;
+}
+
+.main_black {
+    color: #1e1e1e;
+}
+
+.medium_black {
+    color: #323232;
+}
+
+.pearl_black {
+    color: #464646;
+}
+
+.dark_black {
+    color: #0a0a0a;
+}
+
+.main_blue {
+    color: #465af5;
+}
+
+.white_blue {
+    color: #afaff5;
+}
+
+.grey_blue {
+    color: #6464aa;
+}
+
+.black_blue {
+    color: #1e1e64;
+}
